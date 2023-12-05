@@ -3,7 +3,7 @@
 </h1>
 Using Kotlin
 <p align="center">
-     <a style="text-decoration:none" href="https://github.com/rajguptah/androidwebview/commits/master">
+     <a style="text-decoration:none" href="https://github.com/rajguptah/androidwebview/commits/main">
           <img src="https://img.shields.io/github/last-commit/rajguptah/androidwebview?color=informational&label=last%20update" alt="License" />
      </a>
      <a style="text-decoration:none" href="LICENSE">
